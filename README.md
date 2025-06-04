@@ -144,8 +144,6 @@ The application follows a **modular, layered architecture**:
 
 ### Development Tools
 - **[ESLint](https://eslint.org/)** - Code linting
-- **[Prettier](https://prettier.io/)** - Code formatting
-- **[Jest](https://jestjs.io/)** - Testing framework
 - **[ts-node](https://www.npmjs.com/package/ts-node)** - TypeScript execution
 
 ---
@@ -268,7 +266,7 @@ Before setting up the project, ensure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/blog-app-backend.git
+git clone [https://github.com/Aline-CROIRE/Blog_API.git](https://github.com/Aline-CROIRE/Blog_API.git)
 
 # Navigate to project directory
 cd blog-app-backend
